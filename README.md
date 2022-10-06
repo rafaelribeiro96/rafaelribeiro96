@@ -16,7 +16,7 @@
 
 Tenho 26 anos, moro em Belo Horizonte/MG, advogado pós graduado em Direito Digital e que neste momento me encontro em transição de carreira, estudando Desenvolvimento Web na Trybe
 
-A <a href="https://www.betrybe.com.br/" target="_blank">Trybe</a> é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
+A <a href="https://www.betrybe.com/" target="_blank">Trybe</a> é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
 
 
 </br>
