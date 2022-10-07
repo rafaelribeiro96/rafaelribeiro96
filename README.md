@@ -5,9 +5,10 @@
 <div dsplay="inline-block" target="_blank">
  
  <h1 align="left">Rafael Ribeiro</h1>
+ <h4> <a href="https://rafaelribeiro96.github.io/" target="_blank">Portfólio</a>  </h4>
  
 <a href = "mailto:rafaelfelipe.r@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaelfeliperibeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://rafaelribeiro96.github.io/" target="_blank">Meu Portfólio</a>
+<a href="https://www.linkedin.com/in/rafaelfeliperibeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
