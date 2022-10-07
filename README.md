@@ -46,7 +46,7 @@ A <a href="https://www.betrybe.com/" target="_blank">Trybe</a> é uma escola de 
 <div align="center">
 <a href="https://github.com/rafaelribeiro96">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelribeiro96&layout=compact"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelribeiro96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelribeiro96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
