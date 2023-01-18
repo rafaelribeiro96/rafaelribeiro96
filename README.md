@@ -7,7 +7,7 @@
 <h1 align="left">Rafael Ribeiro</h1>
 
 <a href = "mailto:rafaelfelipe.r@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaelfeliperibeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaelfeliperibeiro/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <h6> <a href="https://rafaelribeiro96.github.io/" target="_blank">Portfólio</a>  </h6>
  <a href="https://rafaelribeiro96.github.io/" target="_blank"><img src="https://s9.gifyu.com/images/gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" alt="gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" border="0" width="400"/></a>
