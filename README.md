@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/rafaelfeliperibeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <h6> <a href="https://rafaelribeiro96.github.io/" target="_blank">Portfólio</a>  </h6>
- <a href="https://rafaelribeiro96.github.io/"><img src="https://s9.gifyu.com/images/gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" alt="gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" border="0" width="400"/></a>
+ <a href="https://rafaelribeiro96.github.io/" target="_blank"><img src="https://s9.gifyu.com/images/gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" alt="gif-mudanca-de-cor-portfolio-rafael-ribeiro.gif" border="0" width="400"/></a>
  
 </div>
 
@@ -52,7 +52,7 @@ A <a href="https://www.betrybe.com/" target="_blank">Trybe</a> é uma escola de 
 ##
 
 <div align="center">
-<a href="https://github.com/rafaelribeiro96">
+<a href="https://github.com/rafaelribeiro96" target="_blank">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelribeiro96&layout=compact"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelribeiro96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
