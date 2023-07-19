@@ -24,7 +24,7 @@ Comecei minha carreira na TI ainda na adolescência, quando concluí o curso té
 
 Através dos cursos que realizei, incluindo bootcamps, udemy, alura e agora na pós graduação aprendi diversos conteúdos como fundamentos de desenvolvimento Web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
 
-O mundo da Tecnologia está em constante transformação, e é por isso que estudo algumas das seguintes Ferramentas e Tecnologias: JavaScript, React, NextJs, NodeJs, HTML 5, Css, Git, Redux, Figma, Jest, Docker, MySql, TypeScript, MongoDb e Python.
+O mundo da Tecnologia está em constante transformação, e é por isso que estudei diversas Ferramentas e Tecnologias como por exemplo: JavaScript, React, NextJs, NodeJs, HTML 5, Css, Git, Redux, Figma, Jest, Docker, MySql, TypeScript, MongoDb e Python.
 
 
 </br>
