@@ -59,11 +59,4 @@ No dia a dia, prezo por código limpo, arquitetura desacoplada, componentizaçã
 
 </br>
 
-##
 
-<div align="center">
-<a href="https://github.com/rafaelribeiro96" target="_blank">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelribeiro96&layout=compact"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelribeiro96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
